@@ -25,7 +25,7 @@ The first step to initialize the foundry project is to first setup foundry on yo
 
 4. Now we can initialize the foundry project using the below command
     ```bash
-    foundry --init
+    forge init
     ```
 
 ## The SimpleStorage Contract and Deployment Script
